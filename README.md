@@ -1,6 +1,6 @@
 # [Victoria] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Victoria Soares</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Victoria Soares</strong>, <strong>Iniciante no mundo da programação e apaixonada por tecnologia e inovação</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>A desenvolver softwares e sistemas computacionais</strong> 
 - 💬 Pergunte-me sobre: <strong>Games, tecnologia, linguagens</strong>
