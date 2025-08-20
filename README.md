@@ -1,4 +1,4 @@
-# [Victoria] <img src="https://media2.giphy.com/media/HuIiWZekURnZzBMAXK/source.gif" width="30px">
+# [Victoria] <img src="https://media2.giphy.com/media/HuIiWZekURnZzBMAXK/source.gif" width="60px">
 
 Eu sou <strong>Victoria Soares</strong>, <strong>Iniciante no mundo da programação e apaixonada por tecnologia e inovação</strong> 👨🏻‍💻 
 
