@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me "https://media2.giphy.com/media/HuIiWZekURnZzBMAXK/source.gif" width="40px"
 Olá, meu nome é Victoria Soares<br>Sou estudante de ADS na faculade SENAC<br>Atualmente estou aprendendo: Python
 
 
